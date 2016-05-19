@@ -24,7 +24,7 @@ public class Main {
         double f = 14.567;
         System.out.println((int)f);
         /////////////////////////////////////
-        
+
 
 
     }
